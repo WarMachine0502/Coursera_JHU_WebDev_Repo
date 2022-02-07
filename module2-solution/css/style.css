@@ -8,6 +8,7 @@ html{
     font-size: 100%;
     scroll-behavior: smooth;
     scroll-padding-top: 6rem;
+    padding: 1rem;
 }
 
 body {
@@ -35,7 +36,7 @@ section:hover{
 
 section>h2 {
     border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-left: 2px solid black;
     float: right;
     margin: 0;
     width: 10rem;
